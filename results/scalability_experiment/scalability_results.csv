@@ -1,0 +1,4 @@
+data_percentage,records,execution_time_seconds,throughput_records_per_second
+25,221935,1.309556,169473.431574
+50,443536,1.286914,344650.980816
+100,887542,0.940827,943363.256640

@@ -1,0 +1,2 @@
+total_energy_kwh,average_half_hour_kwh,minimum_half_hour_kwh,maximum_half_hour_kwh,stddev_half_hour_kwh,valid_readings
+200952.22898609686,0.22642045455539703,0.0,6.5279999,0.3817767968216632,887518

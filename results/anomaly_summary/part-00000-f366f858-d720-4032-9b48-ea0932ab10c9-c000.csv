@@ -1,0 +1,2 @@
+total_records,q1_kwh,q3_kwh,iqr_kwh,lower_bound_kwh,upper_bound_kwh,anomaly_count,high_consumption_anomalies,low_consumption_anomalies,anomaly_percentage
+887518,0.055,0.24,0.185,-0.22249999999999998,0.5175,84531,84531,0,9.524426546841868
