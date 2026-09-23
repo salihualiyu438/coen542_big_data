@@ -64,7 +64,7 @@ The platform supports data ingestion, distributed processing, descriptive analyt
 ## Project Structure
 
 ```text
-big_data_analytics/
+coen542_big_data/
 ├── dashboard/
 │   └── app.py
 ├── spark/
