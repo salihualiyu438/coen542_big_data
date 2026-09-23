@@ -8,10 +8,10 @@ from pathlib import Path
 # ============================================================
 
 # app.py is inside:
-# C:\Users\User\Documents\coen542 project\app\dashboard
+# coen542_big_\dashboard\app
 #
 # results is inside:
-# C:\Users\User\Documents\coen542 project\app\results
+# coen542_big_\results
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 RESULTS_DIR = BASE_DIR / "results"
